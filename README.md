@@ -13,5 +13,5 @@ pacman -S tesseract tesseract-data-eng pngquant poppler
 
 ## Usage
 ```sh
-$ ./ocr-pdf.sh <original-pdf-w/o-text> <destination-pdf-with-OCR'ed-text>
+$ ./ocr-pdf.sh input.pdf output.pdf
 ```
